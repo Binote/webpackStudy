@@ -1,6 +1,6 @@
-# sindrax-try-play
+# webpackStudy
 
-> 
+> 记一次webpack4学习，多入口，以及代码提取
 
 ``` bash
 # install dependencies
